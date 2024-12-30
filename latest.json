@@ -4,7 +4,7 @@
     "pub_date": "2024-12-30T00:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "SIGNATURE",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQVFHeUJsWGFSNkpyeVNqVUFZY1VWcFhjZkRLdnlnSitWaTlIeUhBQW1MYmxpQmxtVmQ1aEttcVA5WDdLK2M0eUd1V1pFcnhHYTNGeDhTZHloYVFDU1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1NTQ0NTAyCWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjEuMF94NjRfZW4tVVMubXNpCmYzbkI4ZVBPdnQ3VFE5RjlmMEdoNll4bWFFMzd3aEpVeGJVeGtzRjV5VEJWVUU0Z0RnMndlVDBic0k1b2pDZ25Jclc4U25BcjJXYlJyQ1BKS3VVbER3PT0K",
         "url": "https://github.com/username/repo/releases/download/v1.0.0/app.msi"
       }
     }
