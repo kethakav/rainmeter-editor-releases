@@ -25,9 +25,5 @@ Join our community on [Discord](https://discord.gg/tzY82KkS4H) to get support, s
 ## Screenshots and Videos
 
 ![Screenshot 1](media/images/rainmeter-editor_jTVEhTw0Va.png)
-![Screenshot 2](path/to/screenshot2.png)
-
-[![Video 1](path/to/video1-thumbnail.png)](path/to/video1.mp4)
-[![Video 2](path/to/video2-thumbnail.png)](path/to/video2.mp4)
 
 We hope you enjoy using Rainmeter Editor!
