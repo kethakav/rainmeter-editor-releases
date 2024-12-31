@@ -1,11 +1,11 @@
 {
-    "version": "v0.1.3",
-    "notes": "Testing Release.",
+    "version": "v0.1.4",
+    "notes": "Bug fixes.",
     "pub_date": "2024-12-30T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQWJ0NDdYNGpWMVQyT3VIM0NRM0Qzemg3MnNtVVhKQlNMQXBSVTF5Zm1CSUwyQjVOa1QrNnRVTlpZK1M3U0ZxUHdHQnViTkM2bjR4VmlnZnk2Wk4wZWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1NTU3NTc5CWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjEuM194NjRfZW4tVVMubXNpCktBWWxXZG1BZlFFNHBaVENZbXNpUXFPS293a3B3dHhOZlZ4Q0I1S0o5OFhZUkl4dTgySTdIdHdxZnlhMndLVy9oaER3RFkzKythb1ludjg4RkowMkNRPT0K",
-        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.1.3/Rainmeter.Editor_0.1.3_x64_en-US.msi"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQWMvY1diaTFxTVJlOUREV29GSVhrTmU1aVdpYzBsdy8ySXEwdWpiZzl1RUYzYUJWOXNJWXNoazFDR2pmOWVZY21jYXkyM3pMNVQ0dTdyTHBRdW8wd3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1NjUzMzcxCWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjEuNF94NjRfZW4tVVMubXNpCjI0NnhuWVlHMTd1QUhsTTFDb01LaHhDWXlBYlRzZXpWN2ZJK2FuWUJwLytPM2p3VmRsUXV2TjhuS1FLQjJZZ1YxSW84WFVoSEJjMkVpWmMybFVwdkJnPT0K",
+        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.1.4/Rainmeter.Editor_0.1.4_x64_en-US.msi"
         }
     }
 }
