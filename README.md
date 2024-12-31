@@ -24,7 +24,7 @@ Join our community on [Discord](https://discord.gg/tzY82KkS4H) to get support, s
 
 ## Screenshots and Videos
 
-[![Video 2](media/images/explorer_QlFPmVzH8R.png)](media/videos/2024-12-31%2020-09-23.mkv)
+[![Video 2](media/images/explorer_QlFPmVzH8R.png)](https://youtu.be/FxBZCdO-a5o)
 ![Screenshot 1](media/images/rainmeter-editor_jTVEhTw0Va.png)
 
 We hope you enjoy using Rainmeter Editor!
