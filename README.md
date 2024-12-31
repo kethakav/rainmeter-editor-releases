@@ -14,21 +14,17 @@ To get the latest version of Rainmeter Editor, please visit our [GitHub Releases
    - Click on "More info".
    - Click on "Run anyway".
 
-## Disclaimer
-
-> **Warning:** Please note that since this application is from an unverified developer, Windows SmartScreen will display a warning during installation. Rest assured, the application is safe to use. Follow the steps mentioned above to proceed with the installation.
-
 ## Early Version Notice
 
 This is still an early version of Rainmeter Editor, and more features will be added in the future. Stay tuned for updates!
 
 ## Join Our Community
 
-Join our community on [Discord](https://discord.gg/your-discord-invite) to get support, share your creations, and connect with other Rainmeter enthusiasts.
+Join our community on [Discord](https://discord.gg/tzY82KkS4H) to get support, share your creations, and connect with other Rainmeter enthusiasts.
 
 ## Screenshots and Videos
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](media/images/rainmeter-editor_jTVEhTw0Va.png)
 ![Screenshot 2](path/to/screenshot2.png)
 
 [![Video 1](path/to/video1-thumbnail.png)](path/to/video1.mp4)
