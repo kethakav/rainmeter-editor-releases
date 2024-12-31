@@ -23,9 +23,10 @@ This is still an early version of Rainmeter Editor, and more features will be ad
 Join our community on [Discord](https://discord.gg/tzY82KkS4H) to get support, share your creations, and connect with other Rainmeter enthusiasts.
 
 ## Screenshots and Videos
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FxBZCdO-a5o?si=vaYoWvsNJK2IKCSi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+#### YouTube Tutorial
 [![Video 2](media/images/explorer_QlFPmVzH8R.png)](https://youtu.be/FxBZCdO-a5o)
+#### Screenshot
 ![Screenshot 1](media/images/rainmeter-editor_jTVEhTw0Va.png)
 
 We hope you enjoy using Rainmeter Editor!
