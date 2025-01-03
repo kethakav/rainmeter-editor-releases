@@ -1,11 +1,11 @@
 {
-    "version": "v0.1.5",
-    "notes": "Bug fixes.",
-    "pub_date": "2025-01-01T00:00:00Z",
+    "version": "v0.1.6",
+    "notes": "Real time preview updates and mouse scroll resize",
+    "pub_date": "2025-01-02T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQWJoNFg2d0E3K0FJTUo4dU83SUk0R2hNQnJZRzdIaFhPZjVCNFNxbEpHRmFhNWVpaUJEQVVPN3g4eTBYdTFuWnh2SDB4dVA1enpWdzJHVC9Oa0h1Y1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1NzI1NTc1CWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjEuNV94NjRfZW4tVVMubXNpCkNxalhub2d2OExaN0xka3ROenkrV3RqM2F5ZzlQaXBaaVVnNTZyZGh5SHplTlJvT0thNmhQMzhucmFaY1M0b2NwM3ViRi93SURzSkk3c0lCZlFMYUJRPT0K",
-        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.1.5/Rainmeter.Editor_0.1.5_x64_en-US.msi"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQVhaZit4bys3cy9ZM3RmTW42RldUbVcvMFZIS2VFT1dmVEFCeVlaRWNFTGtHalZDWjg0bXVuWi9HUHNyRWQ2Qm14andvZG01cjErR3BnV3BRQlVSU3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1ODkyMjQzCWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjEuNl94NjRfZW4tVVMubXNpCnl3Ly9PMnBQYjNBS0dUTXR3aVFVRHQzZ0tjUkpMKzllRVUxZjMrTlViaDlQRnVlOGJ6aFhHZXZtYlU0UkJpTlhRTEpPSllpSFAxd2ZjTUhFQUxIR0JnPT0K",
+        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.1.6/Rainmeter.Editor_0.1.6_x64_en-US.msi"
         }
     }
 }
