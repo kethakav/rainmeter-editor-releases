@@ -4,11 +4,11 @@ Welcome to the Rainmeter Editor! This application allows you to create Rainmeter
 
 ## Repository Overview
 
-Since Rainmeter Editor is not fully open-source, this repository serves as a place for:  
-- Bug reports  
-- Feature requests  
-- General discussions  
-- Instructions and tutorials  
+Since Rainmeter Editor is not fully open-source, this repository serves as a place for:
+- Bug reports
+- Feature requests
+- General discussions
+- Instructions and tutorials
 
 ## Early Version Notice
 
@@ -36,5 +36,15 @@ Join our community on [Discord](https://discord.gg/tzY82KkS4H) to get support, s
 [![Video 2](media/images/explorer_QlFPmVzH8R.png)](https://youtu.be/FxBZCdO-a5o)  
 #### Screenshot
 ![Screenshot 1](media/images/rainmeter-editor_jTVEhTw0Va.png)
+
+## Report Bugs and Request Features
+
+If you encounter any bugs or have ideas for new features, please use the following templates to file your reports:
+- [Report a Bug](https://github.com/kethakav/rainmeter-editor/issues/new?template=bug_report.yml)
+- [Request a Feature](https://github.com/kethakav/rainmeter-editor/issues/new?template=feature_request.yml)
+
+We appreciate your feedback and contributions!
+
+---
 
 We hope you enjoy using Rainmeter Editor!
