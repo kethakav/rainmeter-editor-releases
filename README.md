@@ -2,6 +2,18 @@
 
 Welcome to the Rainmeter Editor! This application allows you to create Rainmeter skins with ease.
 
+## Repository Overview
+
+Since Rainmeter Editor is not fully open-source, this repository serves as a place for:  
+- Bug reports  
+- Feature requests  
+- General discussions  
+- Instructions and tutorials  
+
+## Early Version Notice
+
+This is still an early version of Rainmeter Editor, and more features will be added in the future. Stay tuned for updates!
+
 ## Download and Install
 
 To get the latest version of Rainmeter Editor, please visit our [GitHub Releases](https://github.com/kethakav/rainmeter-editor-releases/releases) page and download the Windows setup file.
@@ -14,10 +26,6 @@ To get the latest version of Rainmeter Editor, please visit our [GitHub Releases
    - Click on "More info".
    - Click on "Run anyway".
 
-## Early Version Notice
-
-This is still an early version of Rainmeter Editor, and more features will be added in the future. Stay tuned for updates!
-
 ## Join Our Community
 
 Join our community on [Discord](https://discord.gg/tzY82KkS4H) to get support, share your creations, and connect with other Rainmeter enthusiasts.
@@ -25,7 +33,7 @@ Join our community on [Discord](https://discord.gg/tzY82KkS4H) to get support, s
 ## Screenshots and Videos
 
 #### YouTube Tutorial (Click on the image)
-[![Video 2](media/images/explorer_QlFPmVzH8R.png)](https://youtu.be/FxBZCdO-a5o)
+[![Video 2](media/images/explorer_QlFPmVzH8R.png)](https://youtu.be/FxBZCdO-a5o)  
 #### Screenshot
 ![Screenshot 1](media/images/rainmeter-editor_jTVEhTw0Va.png)
 
