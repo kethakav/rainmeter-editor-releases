@@ -1,11 +1,11 @@
 {
-    "version": "v0.1.9",
-    "notes": "Image tool, text/image rotation and more. Oh scroll resizing too! \nBug fixes and improvements.",
+    "version": "v0.1.10",
+    "notes": "Fixes and new stuff.",
     "pub_date": "2025-01-05T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQVFOZnFhd3drcHNGWlhPbmIrdHpkbTNUaWxtbnJGVUJBdTgyaGZzanp5UEQ2dUZPaUh5a2ZTU2ZuOHZ4eXlHWll6cVFUcTVVYmFFbkQ3NTkvS0tRSUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2MTU4MzQyCWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjEuOV94NjRfZW4tVVMubXNpClQ0Y3RhUHNuMVZrTi8xQzdENnovcThlclNsN3JkRU5MWVZvZVphR0dDMVdpR3NqZ09jNHVDUDB3MVEvVVlJSFZBNWtYOHpuVkJCcnlUaFJ1SjN1MUR3PT0K",
-        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.1.9/Rainmeter.Editor_0.1.9_x64_en-US.msi"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQWQrYUNWSjRLMm1nRXBURWtNZWJQN252UUFhVGEvclRQTC9GUmNIMi9VMk5Vb0JkRXl2MjJ6cDNTWmZ6ajZQcUlIaUM4OUJ6WVdRdFZvbmdQYWF4UVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2MTczMzY3CWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjEuMTBfeDY0X2VuLVVTLm1zaQpBbjVoYit4SVlNUnJ6dmhuVWtJMnFMWUpVbG5JZi9zbGpNMW9HRkpJVFg1MUR0Zmk1TFpSMjN0WmJTYyswZGV5Y1NxUE0ySTU2ZTdPZmtENVRLeGNEUT09Cg==",
+        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.1.10/Rainmeter.Editor_0.1.10_x64_en-US.msi"
         }
     }
 }
