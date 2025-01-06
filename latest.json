@@ -1,11 +1,11 @@
 {
-    "version": "v0.1.7",
-    "notes": "Deleting layers. CPU, Disk measures. Bug reporting.",
-    "pub_date": "2025-01-04T00:00:00Z",
+    "version": "v0.1.8",
+    "notes": "Image tool, text/image rotation and more. Oh scroll resizing too!",
+    "pub_date": "2025-01-05T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQWZ3WDhwNFBtd3paUi9wQ001R1FDcHNBQ3BTK2VaUDlaY3NaM0F5NVZBa0dpOWN5b0RzbE5rYmFhdDMvUUoydU90L1ZSNmFPK1ZCd202OW9USkp6ZHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2MDYzMzA1CWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjEuN194NjRfZW4tVVMubXNpClNGVUd5OWp5ZnZjaHExVVdiUWlLN3FZVnZmU3pTczZQZHhnd2pMMzMyellHUmtCQzJFWHZaMzYrQ1IxeWRJY0wydjFncUs1OXFGYnNPWTZ4NmhpOUFRPT0K",
-        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.1.7/Rainmeter.Editor_0.1.7_x64_en-US.msi"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQWRFQmJnMTBPb084K1R0RzZsR29zaXJWQTdOdnRTZGNFTUx5VnVBOEdPWjQ4VVFRZ1U2eExiYXU3RGJ6N1lMVGNQUUVzam9LMFFaRDVld3VVY010WVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM2MTU2NDMwCWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjEuOF94NjRfZW4tVVMubXNpClorT1R5Y1duVjR2cmhxeTM5YnJYMXdib0FRbkd5V014ODFaS2FMdFhZL2JDb0xuVWZwMkM5cmQyNWxBMDd4U2xRQjRJQkhqc0FXT3haZTlCQkY2MkNRPT0K",
+        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.1.8/Rainmeter.Editor_0.1.8_x64_en-US.msi"
         }
     }
 }
