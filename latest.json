@@ -1,11 +1,11 @@
 {
-    "version": "v0.2.1",
+    "version": "v0.2.2",
     "notes": "UI improvements (massive), bug fixes.\nAlmost forgot, rotator and bar meters too.\nStay Frosty!",
     "pub_date": "2025-01-15T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQWZxb0pmUXUrWnoyODBtMzJtMjRoamVrTnVOczBkTkMrZTVDTFpPWDJKaWR1ZHRWTzhDNnB5OWhRcWcwQXpzMGhzSytvbVpodlFwYjlTT1JxaU5IUUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MDIyMzExCWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjIuMV94NjRfZW4tVVMubXNpCncyVW9tMWhxc1M2L1M2VnUvWUZ6eTM3a3oyeHlIdUNlK0dmdXVIMnBPWkpMUDIyRExjdlBwZTRTVFpBYVQzUms3YWJ5TWZ4MHdCSlgrVWhxU0lPakNnPT0K",
-        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.2.1/Rainmeter.Editor_0.2.1_x64_en-US.msi"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScG5NYkhqOEdnQVZHQ01oZnhXRDBVcDFoZ1VZbVpGWUkyNEpPYUt5YUlvMTZCdGNrTGZOdlRuT1pMbmk1d0laVitzeTdFQndrSDdNWndaenZEZWt0clRRakhXZDNXUVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM3MDE0MDM4CWZpbGU6UmFpbm1ldGVyIEVkaXRvcl8wLjIuMl94NjRfZW4tVVMubXNpCityQVQwWEcwc3BPVWZsZmQ2ZVFlTnpldFBuVjJzbDZlbnhGTUp5cmVpekwwNW1GVmFZOGc1NXUyM2RUQ25zd1lwNFgzSm4wYWhuZU5rbjN3dDlVMEFRPT0K",
+        "url": "https://github.com/kethakav/rainmeter-editor-releases/releases/download/v0.2.2/Rainmeter.Editor_0.2.2_x64_en-US.msi"
         }
     }
 }
