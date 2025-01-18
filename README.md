@@ -36,7 +36,6 @@ Join our community on [Discord](https://discord.gg/tzY82KkS4H) to get support, s
 [![Video 2](media/images/explorer_QlFPmVzH8R.png)](https://youtu.be/FxBZCdO-a5o)  
 #### Screenshots
 ![Screenshot 1](media/images/ss-rm-editor.png)
-![Screenshot 2](media/images/rainmeter-editor_jTVEhTw0Va.png)
 
 ## Report Bugs and Request Features
 
